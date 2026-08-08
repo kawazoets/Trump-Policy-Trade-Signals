@@ -149,12 +149,19 @@ Intel shares purchased
         ↓ 4 days
 Aug 22
 Government stake formally announced
+
 となります。
 
 このため、Case 03について、
+
 > 「政府出資発表の4日前に買った」
+
 だけを書くのは不十分です。
+
 より正確には、
+
 > **Trump's accounts purchased Intel four days before the formal government investment announcement — but also four days after the possibility of that government investment had already been publicly reported.**
+
 です。
+
 これは非常に重要な違いです。
