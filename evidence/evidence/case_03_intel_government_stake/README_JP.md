@@ -149,7 +149,7 @@ Intel shares purchased
         ↓ 4 days
 Aug 22
 Government stake formally announced
-
+```
 となります。
 
 このため、Case 03について、
